@@ -4,7 +4,6 @@ Meu nome é João Paulo e me chamam de Bluesball!
 Sou servidor público do estado de Goiás e atualmente migrando de analista de infraestrutura para me tornar um profissional DevOps.
 Aqui você vai encontrar as tecnologias que estou estudando/trabalhando ou simplesmente armazenando ideias para projetos futuros.
 
-
 <div align="display: inline_block">
   <a href="https://github.com/bluesball/">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=bluesball&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -23,6 +22,7 @@ Aqui você vai encontrar as tecnologias que estou estudando/trabalhando ou simpl
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">   
   </a>
 </div>
+
 ### Onde me encontrar:
 <div> 
  <a href = "mailto:bluesball@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -30,3 +30,4 @@ Aqui você vai encontrar as tecnologias que estou estudando/trabalhando ou simpl
 <a href="https://twitter.com/Bluesball02"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
 </div>
+
